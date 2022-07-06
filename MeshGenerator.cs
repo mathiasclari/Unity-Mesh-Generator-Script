@@ -31,7 +31,7 @@ public class MeshGenerator : MonoBehaviour{
         };
         triangles = new int[]{
             0, 1, 2,
-            1, 3, 2
+            1, 3, 3
         };
     }
 
